@@ -2,21 +2,33 @@
 
 
 
+
+
 ### :eight_spoked_asterisk: Descrição: ###
 
-**:beginner: :one: O programa lê os números e, com base na leitura, toma decisões a partir das escolhas do usuário ao utilizar o menu de opções.**
+**:beginner: :one: O programa lê números e, com base na leitura, toma decisões a partir das escolhas feitas pelo o usuário ao utilizar o menu de opções.**
 
 
 
 *O MENU DE OPÇÕES segue o modelo abaixo:*
 
-*D - para digitar novos números.
+
+
+D - para digitar novos números.
+
 Z - para apresentar o somatório dos números.
+
 V - para visualizar todos os números digitados.
+
 P - para a quantidade de números digitados.
+
 M - para a média simples dos números digitados.
+
 Q - para a quantidade de pares.
-S - para sair do programa.*
+
+S - para sair do programa.
+
+
 
 
 
