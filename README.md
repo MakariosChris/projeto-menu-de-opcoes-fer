@@ -33,4 +33,4 @@ A letra Z gerou o resultado: 57.
 A letra Q gerou o resultado: 2.
 A letra P gerou o resultado: 3.*
 
-![Print menu de opcoes!](C:\Users\fcm00\Downloads\readme\imagens\programa_menu_opcao.jpg)
+![Print menu de opcoes!](imagens/programa_menu_opcao.jpg)
