@@ -22,7 +22,7 @@ S - para sair do programa.*
 
 **:beginner: :two: Conforme a ilustração abaixo percebe-se que o usuário iniciou o programa com a letra D - para digitar novos números 15, 34, 8.**
 
-![print do inicio!](C:\Users\fcm00\Desktop\iniciodoprogra.jpg)
+![print do inicio!](C:\Users\fcm00\Downloads\readme\imagens\iniciodoprogra.jpg)
 
 
 
@@ -33,4 +33,4 @@ A letra Z gerou o resultado: 57.
 A letra Q gerou o resultado: 2.
 A letra P gerou o resultado: 3.*
 
-![Print menu de opcoes!](C:\Users\fcm00\Desktop\programa_menu_opcao.jpg)
+![Print menu de opcoes!](C:\Users\fcm00\Downloads\readme\imagens\programa_menu_opcao.jpg)
