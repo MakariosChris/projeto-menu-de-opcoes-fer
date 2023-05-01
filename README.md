@@ -22,7 +22,7 @@ S - para sair do programa.*
 
 **:beginner: :two: Conforme a ilustração abaixo percebe-se que o usuário iniciou o programa com a letra D - para digitar novos números 15, 34, 8.**
 
-![print do inicio!](C:\Users\fcm00\Downloads\readme\imagens\iniciodoprogra.jpg)
+![print do inicio!](imagens/iniciodoprogra.jpg)
 
 
 
